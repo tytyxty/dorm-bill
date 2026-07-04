@@ -34,7 +34,7 @@
 - `records.json`：存储历史费用记录
 
 ### 记录格式示例
-```json
+json
 {
   "month": "2026年07月",
   "water": 100,
@@ -53,10 +53,9 @@
 1. 安装 Python 3 和 Jupyter Notebook
 2. 打开 `宿舍水电费分摊计算器.ipynb` 文件
 3. 按顺序运行所有代码单元格
-
+```bash
 ### 方式二：命令行直接运行
 
-```bash
 python 宿舍水电费分摊计算器.py
 # 1. 添加成员
 add_member("张三")
