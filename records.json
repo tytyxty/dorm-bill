@@ -1,12 +1,16 @@
 [
   {
     "month": "2026年07月",
-    "water": 100,
-    "electricity": 80
-  },
-  {
-    "month": "2026年07月",
-    "water": 100,
-    "electricity": 80
+    "water_reading": 100,
+    "elec_reading": 200,
+    "water_cost": 350.0,
+    "elec_cost": 120.0,
+    "total_cost": 470.0,
+    "members": [
+      "张三",
+      "李四",
+      "王五"
+    ],
+    "timestamp": "2026-07-04T16:28:34.489357"
   }
 ]
